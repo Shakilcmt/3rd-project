@@ -1,0 +1,160 @@
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
+#First-section {
+    background-color: rgb(25, 25, 127);
+}
+
+#top-banner {
+
+    display: flex;
+}
+
+#head {
+    color: white;
+    font-size: 50px;
+    position: relative;
+    left: 200px;
+    padding: 50px;
+
+}
+
+#ancore {
+    background-color: rgb(238, 52, 125);
+    color: white;
+    padding: 10px 20px;
+    position: relative;
+    left: 250px;
+    bottom: 50px;
+}
+
+
+
+
+#img-width {
+    width: 55%;
+    position: relative;
+    left: 300px;
+}
+
+.navbar,
+a {
+    color: white;
+    text-decoration: none;
+    padding: 30px 10px;
+
+}
+
+#login {
+    color: red;
+    text-decoration: none;
+    position: relative;
+    left: 300px;
+}
+
+#display-flex {
+    display: flex;
+    margin-left: 200px;
+    /* padding: 50px 15px; */
+    text-align: justify;
+    position: relative;
+    left: 75px;
+}
+
+#Naymer {
+
+    width: 20%;
+
+    height: 400px;
+    box-shadow: 10px 10px 40px rgb(213, 207, 207);
+    margin: 10px 5px;
+
+    padding: 10px 15px;
+}
+
+#Messi {
+    width: 20%;
+
+    height: 400px;
+    box-shadow: 10px 10px 40px rgb(213, 207, 207);
+    margin: 10px 15px;
+
+    padding: 10px 15px;
+}
+
+#Ronaldo {
+    width: 20%;
+
+    height: 400px;
+    box-shadow: 10px 10px 40px rgb(213, 207, 207);
+    margin: 10px 15px;
+
+    padding: 10px 15px;
+}
+
+.images {
+    width: 90%;
+}
+
+#input-style {
+    display: flex;
+    margin-top: 50px;
+
+}
+
+#devision {
+    width: 50%;
+    /* position: relative;
+    left: 50px; */
+    margin-left: 250px;
+    margin-top: 20px;
+}
+
+#match-highlights {
+
+    width: 55%;
+    margin-left: 100px;
+    margin-bottom: 10px;
+
+}
+
+.heading {
+    font-size: 35px;
+    color: black;
+}
+
+.ancore {
+    color: white;
+    background-color: rgb(238, 52, 125);
+    border: 1px solid;
+    /* border-radius: 35px 50px; */
+    text-decoration: none;
+    padding: 7px 18px;
+}
+
+
+
+#sizer {
+    width: 25%;
+    position: relative;
+    left: 500px;
+    top: 100px;
+    bottom: 100px;
+}
+
+.icon {
+    width: 25px;
+    padding: 5px;
+    position: relative;
+    left: 600px;
+    top: 100px;
+    bottom: 100px;
+}
+
+.flex {
+    position: relative;
+    left: 590px;
+    top: 100px;
+    bottom: 100px;
+}
